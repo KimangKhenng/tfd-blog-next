@@ -1,0 +1,11 @@
+{
+    "editor.fontSize": 24,
+    "git.autofetch": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "always"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    }
+}
