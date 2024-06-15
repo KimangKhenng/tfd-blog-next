@@ -14,7 +14,7 @@ module.exports = {
   },
   theme: {
     fontFamily: {
-      sans: ["Source Sans Pro", "Kantumruy", ...defaultTheme.fontFamily.sans],
+      sans: ["Inter", "Kantumruy", "LXGW WenKai Mono TC", ...defaultTheme.fontFamily.sans],
       mono: ["Georgia", "Noto Serif Khmer", ...defaultTheme.fontFamily.mono],
     },
     extend: {
